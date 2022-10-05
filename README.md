@@ -2,9 +2,9 @@ Deze repo is onderdeel van het vak informatica op het Emmauscollege Rotterdam.
 
 [Meer info over deze opdracht](https://informatica.emmauscollege.nl/)
 
-## *zet hier de titel van je website*
+## *De belangen van sporten*
 
-*zet hier een korte beschrijving van de informatie die je kunt vinden op je website*
+*Op deze website vind je informatie over de belangen van sporten. En tips over het sporten, en hierin je eigen ritme vinden.*
 
 ## Planning
 Werk de planning af van boven naar beneden<br>
