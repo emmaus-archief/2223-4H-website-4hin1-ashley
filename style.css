@@ -49,17 +49,29 @@ p {
 
 .kolomLinks {
   float:left;
-  width:250px;
-  padding-right:15px;           /* afstand tussen plaatje en rechterkolom */
+  width:40%;
+  padding-right:5px;           /* afstand tussen plaatje en rechterkolom */
 }
 .kolomRechts {
   float:left;
-  width: 450px;
+  width: 60%;
 }
-.kolomStop {
-  clear:both;                   /* stop met floaten */
+.boven {
+  background-color:#d9d9d9;
+  padding:20px;
+  border: solid 2px lightblue;
 }
 
+.eerst {
+  background-color:#d9d9d9;
+  padding:20px;
+  border: solid 2px lightblue;
+}
+.laaste {
+  background-color:#d9d9d9;
+  padding:20px;
+  border: solid 2px red;
+}
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
