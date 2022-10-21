@@ -72,6 +72,11 @@ p {
   padding:20px;
   border: solid 2px red;
 }
+
+b {
+  font-weight: bold;
+  color: red;
+}
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
