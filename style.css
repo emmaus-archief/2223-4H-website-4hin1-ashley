@@ -73,6 +73,10 @@ p {
   border: solid 2px red;
 }
 
+.lettertype {
+  font-family:Century schoolbook, Baskerville ;
+}
+
 b {
   font-weight: bold;
   color: red;
