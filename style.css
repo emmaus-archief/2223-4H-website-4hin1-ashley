@@ -45,7 +45,7 @@ p {
 }
 
 .kolomLinks:hover {              /* grootte plaatjes na aanraking*/
-  transform:scale(1.2);
+  transform: scale(1.2);
 }
 
 /* Indeling voor hoofd pagina */
