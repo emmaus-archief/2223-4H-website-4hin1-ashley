@@ -44,6 +44,10 @@ p {
   text-align: justify;            /* tekst links en rechts uitvullen */
 }
 
+.kolomLinks:hover {              /* grootte plaatjes na aanraking*/
+  transform:scale(1.2);
+}
+
 /* Indeling voor hoofd pagina */
 
 
@@ -51,7 +55,8 @@ p {
 .kolomLinks {
   float:left;
   width:40%;
-  padding-right:5px;           /* afstand tussen plaatje en rechterkolom */
+  padding-right:5px; 
+  transition: transform .2s;       /* afstand tussen plaatje en rechterkolom */
 }
 .kolomRechts {
   float:left;
