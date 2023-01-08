@@ -45,13 +45,18 @@ p {
   text-align: justify;            /* tekst links en rechts uitvullen */
 }
 
-.kolomLinks:hover {              /* grootte plaatjes na aanraking*/
-  transform: scale(1.1);
+.kolomLinks:hover {              /* plaatjes na aanraking*/
+ transform: rotate(360deg);
+ animation: roll 3s infinite
 }
 
 /* Indeling voor hoofd pagina */
 
-
+.home {
+  color: white;
+  text-align: center;
+  font-family:Didot, Baskerville, Arial ;
+}
 
 .kolomLinks {
   float:left;
@@ -83,7 +88,7 @@ p {
 .lettertype {
   font-family:Didot, Baskerville, Arial ;
 }
-
+ 
 b {
   font-weight: bold;
   color: red;
