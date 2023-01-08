@@ -47,7 +47,6 @@ p {
 
 .kolomLinks:hover {              /* plaatjes na aanraking*/
  transform: rotate(360deg);
- animation: roll 3s infinite
 }
 
 /* Indeling voor hoofd pagina */
@@ -56,6 +55,16 @@ p {
   color: white;
   text-align: center;
   font-family:Didot, Baskerville, Arial ;
+  border: solid 3px pink;
+  padding: 15px;
+}
+
+.home2 {
+  color: white;
+  text-align: left ;
+  font-family:Didot, Baskerville, Arial ;
+  border: solid 3px pink;
+  padding: 15px;
 }
 
 .kolomLinks {
@@ -93,6 +102,7 @@ b {
   font-weight: bold;
   color: red;
 }
+
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
@@ -105,9 +115,10 @@ h1, h2, h3 {
 }
 
 a {
-    color:blue;
+    color:PaleVioletRed;
     text-decoration: none;
 }
+
 
 a:hover {
     text-decoration: underline;
@@ -120,7 +131,7 @@ a:hover {
 }
 
 #eerstepagina{
-  background-image: url("https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltfGVufDB8fDB8fA%3D%3D&w=1000&q=80]")
+  background-image: url("https://edge.one.fit/image/partner/image/15428/d37f516f-7f4c-465a-9b28-fcdd305a6854.jpg?w=768")
 }
 
 /* Navigatiebalk voor alle pagina's */
