@@ -82,23 +82,23 @@ p {
   background-color:#d9d9d9;
   padding:20px;
   border: solid 2px lightblue;
+  font-family:Didot, Baskerville, Arial ;
 }
 
 .eerst {
   background-color:#d9d9d9;
   padding:20px;
   border: solid 2px lightblue;
+   font-family:Didot, Baskerville, Arial ;
 }
 .laaste {
   background-color:#d9d9d9;
   padding:20px;
   border: solid 2px red;
-}
-
-.lettertype {
   font-family:Didot, Baskerville, Arial ;
 }
- 
+
+
 b {
   font-weight: bold;
   color: red;
@@ -108,6 +108,8 @@ b {
 
 h1, h2, h3 {
       color: #f32812;
+  font-family:Didot, Baskerville, Arial ;
+  
 }
 
 .smalltext {
